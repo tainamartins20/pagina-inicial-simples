@@ -12,8 +12,8 @@ Este projeto é ilustrativo e foi criado para demonstrar habilidades em design d
 - **Logo**: Título do site.
 - **Menu Desktop**: Visível em telas maiores que 768px.
 - **Menu Mobile**: Em telas menores que 768px, o menu é substituído por um ícone de hambúrguer. Utilizando jQuery:
-O menu hambúrguer abre ao ser clicado.
-O menu hambúrguer fecha ao ser clicado novamente.
+  - O menu hambúrguer abre ao ser clicado.
+  - O menu hambúrguer fecha ao ser clicado novamente.
 - **Conteúdo Principal**: Inclui uma introdução ao site, uma seção de planos com detalhes sobre diferentes pacotes e preços, e uma seção parallax com informações sobre a empresa.
 - **Formulário de Contato**: Permite que os visitantes insiram seu nome, e-mail e mensagem (é apenas ilustrativo e não funcional).
 - **Footer**: Contém uma mensagem de direitos reservados.
