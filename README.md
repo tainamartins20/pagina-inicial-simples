@@ -2,26 +2,35 @@
 
 Este projeto é uma página inicial simples. A página utiliza HTML, CSS e um pouco de JavaScript para criar uma interface visual com funcionalidades básicas.
 
-## Descrição
-Este projeto é ilustrativo e foi criado para demonstrar habilidades em design de páginas web. A página utiliza textos e imagens ilustrativas e inclui os seguintes elementos:
-- **Header**: Inclui o título e o menu de navegação.
-- **Menu Desktop**: Visível em telas maiores que 768px.
-- **Menu Mobile**: Em telas menores que 768px, o menu é substituído por um ícone de hambúrguer. Utilizando jQuery, o menu hambúrguer abre ao ser clicado e fecha ao ser clicado novamente.
-- **Formulário de Contato**: Permite que os visitantes entrem em contato (é apenas ilustrativo).
-- **Footer**: Contém informações adicionais.
+Você pode visualizar o projeto online clicando no link abaixo: <br>
+[🔗 Visualizar Projeto](https://tainamartins20.github.io/pagina-inicial-simples/)
 
-## Tecnologias Utilizadas
+## 📝 Descrição:
+Este projeto é ilustrativo e foi criado para demonstrar habilidades em design de páginas web. A página utiliza textos e imagens ilustrativas e inclui os seguintes elementos:
+- **Header**: Contém ícones de redes sociais, o título (logo) e o menu de navegação.
+- **Ícones de Redes Sociais**: Links para Facebook e Instagram com imagens.
+- **Logo**: Título do site.
+- **Menu Desktop**: Visível em telas maiores que 768px.
+- **Menu Mobile**: Em telas menores que 768px, o menu é substituído por um ícone de hambúrguer. Utilizando jQuery:
+O menu hambúrguer abre ao ser clicado.
+O menu hambúrguer fecha ao ser clicado novamente.
+- **Conteúdo Principal**: Inclui uma introdução ao site, uma seção de planos com detalhes sobre diferentes pacotes e preços, e uma seção parallax com informações sobre a empresa.
+- **Formulário de Contato**: Permite que os visitantes insiram seu nome, e-mail e mensagem (é apenas ilustrativo e não funcional).
+- **Footer**: Contém uma mensagem de direitos reservados.
+- **Seção** 'Conheça Nosso Time': Apresenta informações fictícias sobre a equipe, com avatares e descrições.
+
+## 💻 Tecnologias utilizadas:
 - **HTML**: Estrutura da página.
 - **CSS**: Estilização e layout.
 - **JavaScript (jQuery)**: Menu responsivo.
 
-## Funcionalidades
+## ⚙️ Funcionalidades:
 - Menu responsivo que se adapta a diferentes tamanhos de tela.
 - **Menu Hambúrguer**: Em dispositivos móveis, o menu é substituído por um ícone de hambúrguer que, ao ser clicado, abre e fecha o menu.
 - Formulário de contato simples.
 - Rodapé com informações adicionais.
 
-## Notas:
+## 📌 Notas:
 - O projeto utiliza textos e imagens ilustrativas para fins demonstrativos.
 - As imagens e textos podem ser personalizados conforme necessário.
 - As funcionalidades do menu hambúrguer foram implementadas com jQuery para proporcionar uma melhor experiência em dispositivos móveis.
