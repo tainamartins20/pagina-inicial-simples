@@ -26,3 +26,8 @@ Este projeto é ilustrativo e foi criado para demonstrar habilidades em design d
 - As imagens e textos podem ser personalizados conforme necessário.
 - As funcionalidades do menu hambúrguer foram implementadas com jQuery para proporcionar uma melhor experiência em dispositivos móveis.
 
+## 🔧 Instalação e uso:
+- **Baixe o projeto**: Clique no botão "Code" (ou "Código") na página do repositório do GitHub e selecione "Download ZIP". Isso baixará o projeto como um arquivo ZIP no seu computador.
+- **Extraia o arquivo ZIP**: Encontre o arquivo ZIP que você baixou e extraia-o em uma pasta de sua escolha.
+- **Abra o projeto**:  Dentro da pasta extraída, localize o arquivo index.html. Clique duas vezes sobre ele para abrir em seu navegador de internet.
+
